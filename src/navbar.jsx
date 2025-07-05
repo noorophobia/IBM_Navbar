@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Search, User, Menu, X, ChevronDown, MessageSquare, Globe } from 'lucide-react';
-import './Navbar.css';
+import './navbar.css';
 
 const Navbar = () => {
   const [activeDropdown, setActiveDropdown] = useState(null);
