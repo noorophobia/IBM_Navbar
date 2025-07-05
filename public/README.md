@@ -56,10 +56,7 @@ Check out the live deployment on Netlify:
 ```
 src/
 ├── components/
-│   └── navbar.jsx
-│   └── navbar.css
-│   └── mainsection.jsx
-│   └── mainsection.css
+│   └── Navbar.jsx
 ├── App.jsx
 ├── main.jsx
 ├── index.css
